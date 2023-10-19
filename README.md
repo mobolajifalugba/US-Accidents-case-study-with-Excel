@@ -12,4 +12,4 @@ This Excel-based dashboard is designed to empower you with a visual, data-driven
 ## Usage
 - **Download:** Download the Excel file from this repository.
 - **Open the Dashboard:** Open the Excel file, and you'll find the USA Accident Analysis Dashboard ready for use.
-- **Interact:** Use the interactive features to explore accidents and derive valuable insights.
+- **Interact:** Use the interactive features to explore accidents and derive valuable insights
